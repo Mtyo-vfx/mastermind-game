@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-void losuj_kod(int kod[4])
+void draw(int kod[4])
 {
     srand(time(NULL));
     for(int i = 0; i < 4; i++)
