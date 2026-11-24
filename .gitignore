@@ -1,3 +1,2 @@
 *.exe
-compare.o
-main.o
+*.o
